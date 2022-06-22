@@ -1,0 +1,7 @@
+venv/
+.idea/
+__pycache__/
+# Unit test / coverage reports
+.pytest_cache/
+# Env
+.env
